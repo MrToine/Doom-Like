@@ -1,0 +1,19 @@
+{
+    "name": "UI.Runtime",
+    "rootNamespace": "UI.Runtime",
+    "references": [
+        "GUID:f343dd1ccedae4562ab06aa0f04946c1",
+        "GUID:80ecb87cae9c44d19824e70ea7229748",
+        "GUID:75469ad4d38634e559750d17036d5f7c",
+        "GUID:09dcc9c0126b6b34ab2a877b8f2277f5"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
